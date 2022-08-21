@@ -1,0 +1,11 @@
+
+<strings>
+    <string>
+        <add_user>'Add new User'</add_user>
+        <add_expense>'Add Expenses'</add_expense>
+        <rem_balance>'View Remaining balance'</rem_balance>
+        <pie_chart>'Show graphical representation'</pie_chart>
+        <json_file_name>'budg.json'</json_file_name>
+    </string>
+
+</strings>        
